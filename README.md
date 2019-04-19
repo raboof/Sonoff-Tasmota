@@ -37,7 +37,7 @@ We don't take any responsibility nor liability for using this software nor for t
 Please do not ask to add devices where you can't provide a basic working configuration (other than sonoff). Since there are thousands of them.
 
 ### Quick Install
-Download one of the released binaries from https://github.com/arendst/Sonoff-Tasmota/releases and flash it to your hardware as documented in the wiki.
+Download one of the released binaries from https://github.com/arendst/Sonoff-Tasmota/releases and flash it to your hardware as [documented in the wiki](https://github.com/arendst/Sonoff-Tasmota/wiki/Prerequisites).
 
 ### Important User Compilation Information
 If you want to compile Sonoff-Tasmota yourself keep in mind the following:
